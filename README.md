@@ -1,4 +1,3 @@
-
 Esercizio Laboratorio 2
 
 
