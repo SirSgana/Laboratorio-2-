@@ -3,8 +3,8 @@ Esercizio Laboratorio 2
 
 Gioco 1 Tris:
 
-Al quarto segno da inserire il primo viene cancellato ciò consente di continuare a giocare finchè uno non vince ed annulla il problema che chi inizia per secondo non può vincere se non con errori gravi da parte del primo
-
+Al quarto segno da inserire il primo viene cancellato ciò consente di continuare a giocare finchè uno non vince ed annulla il problema che chi inizia per secondo non può vincere se non con errori gravi da parte del primo.
+Lo tengo ma a quanto pare esiste già.
 
 Gioco 2 Scacchi:
 
