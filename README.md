@@ -10,6 +10,7 @@ Al quarto segno da inserire il primo viene cancellato ciò consente di continuar
 Gioco 2 Scacchi:
 
 Anche le Figure possono fare un semplice passo avanti. Ciò crea nuove strategie ed un'enormità di nuove strategie imprevedibili.
+Tuttavia è possibile mangiare solo con mosse Standard.
 
 
 Gioco 3 Tetris:
